@@ -4,7 +4,7 @@ This is a step by step guide for installing and configuring a Linux server and p
 
 ## Getting Started
 
-Requierments for this guide:  
+Requirements for this guide:  
 
 * Terminal (Linux, Mac) or Git Bash (Windows) - if you don't have git installed you can get it [here](git-scm.com).
 * Ubuntu Instance.
